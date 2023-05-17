@@ -558,3 +558,302 @@
   288  git config --global user.name "Gustavo Waschburger"
   289  git config --global user.email "guga@gu.ga.nom.br"
   290  history >> comandos.txt
+    1  sudo -i
+    2  sudo apt-get install intellij
+    3  docker
+    4  sudo snap install docker
+    5  docker
+    6  sudo apt install ruby-full
+    7  sudo apt install postman
+    8  snap install postman
+    9  sudo apt install vim wget php php-cli php-fpm php-mysql php-zip php-gd php-mbstring php-curl php-xml php-pear php-bcmath
+   10  sudo apt -y install apache2
+   11  sudo apt install mariadb-server mariadb-client
+   12  sudo mysql -u root
+   13  sudo mysql_secure_installation
+   14  sudo apt-get install build-essential curl git m4 ruby texinfo libbz2-dev libcurl4-openssl-dev libexpat-dev libncurses-dev zlib1g-dev
+   15  sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+   16  vim ~/.bashrc
+   17  brew install gcc
+   18  brew
+   19  brew helop
+   20  vim ~/.bashrc
+   21  brew
+   22  brew install gcc
+   23  # /etc/init.d/cups-browsed stop
+   24  /etc/init.d/cups-browsed stop
+   25  sudo chmod a-x /etc/init.d/avahi-daemon
+   26  sudo chmod a-x /etc/init.d/cups-browsed
+   27  sudo sed 's/^BrowseLocalProtocols.*$/BrowseLocalProtocols\ none/' -i /etc/cups/cupsd.conf
+   28  sudo service avahi-daemon stop
+   29  sudo service cups-browsed stop
+   30  sudo chmod a-x /etc/init.d/avahi-daemon
+   31  sudo chmod a-x /etc/init.d/cups-browsed
+   32  sudo sed 's/^BrowseLocalProtocols.*$/BrowseLocalProtocols\ none/' -i /etc/cups/cupsd.conf
+   33  sudo service avahi-daemon stop
+   34  sudo service cups-browsed stop
+   35  ping 172.22.50.18
+   36  ping 172.22.50.3
+   37  grub
+   38  sudo add-apt-repository ppa:yannubuntu/boot-repair
+   39  sudo apt-get update
+   40  sudo apt-get install boot-repair
+   41  grub-install -v
+   42  update-grub
+   43  sudo update-grub
+   44  gksudo gedit /etc/default/grub
+   45  sudo gedit /etc/default/grub
+   46  sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+   47  sudo apt-get update
+   48  sudo apt-get install grub-customizer
+   49  ssh
+   50  sudo ssh fundatec@10.0.1.80
+   51  SHA256:Ya7Bn0GIQreZ/5pOYnVWvWHkecnEispZRVGDVIsB7fQ
+   52  SHA256:Ya7Bn0GIQreZ/5pOYnVWvWHkecnEispZRVGDVIsB7fQ.
+   53  sudo ssh suporte@10.0.1.80
+   54  sudo ssh alessanderopr@10.0.1.80
+   55  sudo ssh suporte@10.0.1.80
+   56  sudo ssh alessandropr2@10.0.1.80
+   57  kill
+   58  top
+   59  sudo apt install dia
+   60  sudo apt install caligraflow
+   61  sudo apt install calligraflow
+   62  sudo apt install calligra
+   63  ls
+   64  cd Documentos/
+   65  ls
+   66  cd TI23WEBI/
+   67  ls
+   68  cd LP
+   69  ls
+   70  cd  untitled/
+   71  ls
+   72  cd src
+   73  ls
+   74  java -javac Bemvindo.java
+   75  sudo apt -get update
+   76  sudo apt -get update 
+   77  sudo apt update
+   78  sudo add-apt-repository ppa:git-core/ppa
+   79  sudo apt-get install git
+   80  git
+   81  git help
+   82  sudo apt update
+   83  sudo apt upgrade
+   84  s
+   85  sudo apt autoremove
+   86  git
+   87  ls
+   88  cd Documentos/
+   89  ls
+   90  cd TI23
+   91  ls
+   92  cd FI
+   93  ls
+   94  mkdir git
+   95  cd git
+   96  ls
+   97  mkdir Fundamentos_de_Informatica
+   98  ls
+   99  cd Fundamentos_de_Informatica/
+  100  echo"#Fundamentos_de_Informatica" >> README.md
+  101  git init
+  102  git add README.md 
+  103  git commit -m "first commit"
+  104  git status
+  105  git add README.md 
+  106  git status
+  107  git commit -m "Primeiro commit"
+  108  git config --global user.name "Gustavo Waschburger"
+  109  git config --global user.email "guga@gu.ga.nom.br"
+  110  git config --global
+  111  git commit -m "Primeiro commit"
+  112  git status
+  113  git branch -M main
+  114  git status
+  115  git remote add origin git@github.com:Gustavo-Waschburger/Fundamentos_de_Informatica.git
+  116  git push - origin main
+  117  git push -u origin main
+  118  git --version
+  119  sudo apt update
+  120  sudo apt list --upgradable
+  121  ls
+  122  cd Documentos/
+  123  ls
+  124  cd TI23
+  125  ls
+  126  cd FI
+  127  ls
+  128  cd git
+  129  ls
+  130  echo "# Fundamentos_Informatica" >> README.md
+  131  git init
+  132  git status
+  133  git add README.md
+  134  git status
+  135  cd Fundamentos_Informatica/
+  136  echo "# Fundamentos_Informatica" >> README.md
+  137  git add README.md
+  138  echo "# Fundamentos_Informatica" >> README.md
+  139  git init
+  140  git add README.md 
+  141  git commit -m "Primeiro commit"
+  142  git status
+  143  git remote add origin https://github.com/Gustavo-Waschburger/Fundamentos_Informatica.git
+  144  git status
+  145  git push -u origin master
+  146  git remote add origin https://github.com/Gustavo-Waschburger/Fundamentos_Informatica
+  147  git push -u origin master
+  148  git status
+  149  git push -u origin master
+  150  cd ..
+  151  cd Fundamentos_Informatica/
+  152  echo "# Fundamentos_Informatica" >> README.md
+  153  git add README.md 
+  154  git init
+  155  git commit -m "first commit"
+  156  git branch -M master
+  157  git remote add origin https://github.com/Gustavo-Waschburger/Fundamentos_Informatica.git
+  158  ssh-keygen -t ed25519 -C"guga@gu.ga.nom.br
+  159  "
+  160  ls
+  161  ssh-keygen -t ed25519 -C"guga@gu.ga.nom.br"
+  162  git remote set-url origin git@github.com:Gustavo-Waschburger/Fundamentos_Informatica.git
+  163  git push -u origin master
+  164  git remote set-url origin git@github.com:Gustavo-Waschburger/Fundamentos_Informatica.git
+  165  ls
+  166  git branch -M main
+  167  git status
+  168  git add README.md
+  169  git status
+  170  git push -u origin master
+  171  git remote set-url origin git@github.com:Gustavo-Waschburger/Fundamentos_Informatica.git
+  172  git remote -v
+  173  git push -u origin master
+  174  git status
+  175  git commit -m "first commit"
+  176  git push -u origin master
+  177  git status
+  178  git push -u origin master
+  179  cd ..
+  180  cd ~
+  181  ls
+  182  cd Documentos/
+  183  ls
+  184  cd TI23
+  185  ls
+  186  cd FI/
+  187  ls
+  188  cd git
+  189  mkdir Fundamentos_Informatica
+  190  ls
+  191  cd Fundamentos_Informatica/
+  192  echo "# Fundamentos_Informatica" >> README.md
+  193  git init
+  194  git add README.md
+  195  git commit -m "first commit"
+  196  git branch -M main
+  197  git remote add origin git@github.com:Gustavo-Waschburger/Fundamentos_Informatica.git
+  198  git push -u origin main
+  199  ssh-keygen -t ed25519 -C "guga@gu.ga.nom.br"
+  200  git push -u origin main
+  201  exit
+  202  git init
+  203  exit
+  204  ls
+  205  cd Documentos/
+  206  ls
+  207  cd TI23
+  208  ls
+  209  cd FI/
+  210  ls
+  211  cd git/
+  212  ls
+  213  cd Fundamentos_Informatica/
+  214  ls
+  215  git init
+  216  echo "# Fundamentos_Informatica segunda versão" >> README.md
+  217  git status
+  218  git branch -M main
+  219  git status
+  220  history >> ../../comandos.txt
+  221  git add README.md 
+  222  git commit -m "Primeiro commit"
+  223  git status
+  224  git remote add origin git@github.com:Gustavo-Waschburger/Fundamentos_Informatica
+  225  git remote set-url origin git@github.com:Gustavo-Waschburger/Fundamentos_Informatica.git
+  226  git branch -M master
+  227  git push -u origin master
+  228  ssh-keygen -t ed25519 -C "guga@gu.ga.nom.br"
+  229  ssh-add git
+  230  git push -u origin master
+  231  git status
+  232  git push -u origin master
+  233  sudo git push -u origin master
+  234  ls
+  235  sudo chmod 600 git.pub 
+  236  sudo chmod 600 git
+  237  sudo git push -u origin master
+  238  git stop
+  239  git --help
+  240  top
+  241  exit
+  242  git status
+  243  ssh-keygen -t ed25519 -C "guga@gu.ga.nom.br"
+  244  eval "$(ssh-agent -s)"
+  245  ssh-add ~/.ssh/id_ed25519
+  246  mkdir Fundamentos
+  247* cd Fundamen
+  248  cd ..
+  249  mkdir meu-primeiro-repositorio
+  250  echo "# meu-primeiro-repositorio" >> README.md
+  251  git init
+  252  git add README.md
+  253  git commit -m "first commit"
+  254  git branch -M main
+  255  git remote add origin git@github.com:Gustavo-Waschburger/meu-primeiro-repositorio.git
+  256  git push -u origin main
+  257  ssh-keygen -t ed25519 -C "your_email@example.com"
+  258  ssh-keygen -t ed25519 -C "guga@gu.ga.nom.br"
+  259  git push -u origin main
+  260  ls
+  261  cd meu-primeiro-repositorio/
+  262  ls
+  263  echo "# meu-primeiro-repositorio" >> README.md
+  264  git init
+  265  git add README.md
+  266  git commit -m "first commit"
+  267  git branch -M main
+  268  git remote add origin git@github.com:Gustavo-Waschburger/meu-primeiro-repositorio.git
+  269  git push -u origin main
+  270  history >> comandos.txt
+  271  git push -u origin main
+  272  git add comandos.txt 
+  273  git push -u origin main
+  274  git status
+  275* git add 
+  276  git commit -M "Historico de comandos"
+  277  git commit -m "Historico de comandos"
+  278  git push -u origin main
+  279  ls
+  280  git add index.html 
+  281  git status
+  282  git commit -m "terceiro arquivo HTML"
+  283  git status
+  284  git push
+  285  git add index.html 
+  286  git commit -m "terceiro arquivo HTML com titulo"
+  287  git push
+  288  git config --global user.name "Gustavo Waschburger"
+  289  git config --global user.email "guga@gu.ga.nom.br"
+  290  history >> comandos.txt
+  291  git add comandos.txt 
+  292  git commit -m "adicionando comandos"
+  293  git push
+  294  cd ..
+  295  mkdir projeto-teste
+  296  git clone git@github.com:lhamello/projeto-teste.git
+  297  cd meu-primeiro-repositorio/
+  298  ls
+  299  history >> comandos.txt
